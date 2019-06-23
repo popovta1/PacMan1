@@ -1,0 +1,3 @@
+/home/tanya/CLionProjects/popovta1 (копия)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tanya/CLionProjects/popovta1 (копия)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tanya/CLionProjects/popovta1 (копия)/cmake-build-debug/CMakeFiles/pac_man.dir

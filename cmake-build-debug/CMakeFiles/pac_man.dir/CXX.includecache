@@ -1,0 +1,252 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tanya/CLionProjects/popovta1 (копия)/GameObject.cpp
+GameObject.h
+/home/tanya/CLionProjects/popovta1 (копия)/GameObject.h
+TextureManager.h
+/home/tanya/CLionProjects/popovta1 (копия)/TextureManager.h
+
+/home/tanya/CLionProjects/popovta1 (копия)/GameObject.h
+utility
+-
+Map_object.h
+/home/tanya/CLionProjects/popovta1 (копия)/Map_object.h
+vector
+/home/tanya/CLionProjects/popovta1 (копия)/vector
+memory
+-
+SDL2/SDL.h
+/home/tanya/CLionProjects/popovta1 (копия)/SDL2/SDL.h
+defs.h
+/home/tanya/CLionProjects/popovta1 (копия)/defs.h
+utility
+-
+Map.h
+/home/tanya/CLionProjects/popovta1 (копия)/Map.h
+
+/home/tanya/CLionProjects/popovta1 (копия)/Grass.cpp
+Grass.h
+/home/tanya/CLionProjects/popovta1 (копия)/Grass.h
+
+/home/tanya/CLionProjects/popovta1 (копия)/Grass.h
+Map_object.h
+/home/tanya/CLionProjects/popovta1 (копия)/Map_object.h
+game.h
+/home/tanya/CLionProjects/popovta1 (копия)/game.h
+defs.h
+/home/tanya/CLionProjects/popovta1 (копия)/defs.h
+
+/home/tanya/CLionProjects/popovta1 (копия)/GreenSamurai.cpp
+GreenSamurai.h
+/home/tanya/CLionProjects/popovta1 (копия)/GreenSamurai.h
+
+/home/tanya/CLionProjects/popovta1 (копия)/GreenSamurai.h
+Samurai.h
+/home/tanya/CLionProjects/popovta1 (копия)/Samurai.h
+
+/home/tanya/CLionProjects/popovta1 (копия)/Map.cpp
+Map.h
+/home/tanya/CLionProjects/popovta1 (копия)/Map.h
+iostream
+-
+game.h
+/home/tanya/CLionProjects/popovta1 (копия)/game.h
+TextureManager.h
+/home/tanya/CLionProjects/popovta1 (копия)/TextureManager.h
+fstream
+/home/tanya/CLionProjects/popovta1 (копия)/fstream
+Grass.h
+/home/tanya/CLionProjects/popovta1 (копия)/Grass.h
+Sakura.h
+/home/tanya/CLionProjects/popovta1 (копия)/Sakura.h
+Pancake.h
+/home/tanya/CLionProjects/popovta1 (копия)/Pancake.h
+sstream
+/home/tanya/CLionProjects/popovta1 (копия)/sstream
+
+/home/tanya/CLionProjects/popovta1 (копия)/Map.h
+game.h
+/home/tanya/CLionProjects/popovta1 (копия)/game.h
+defs.h
+/home/tanya/CLionProjects/popovta1 (копия)/defs.h
+string
+-
+Map_object.h
+/home/tanya/CLionProjects/popovta1 (копия)/Map_object.h
+vector
+-
+defs.h
+/home/tanya/CLionProjects/popovta1 (копия)/defs.h
+
+/home/tanya/CLionProjects/popovta1 (копия)/Map_object.cpp
+Map_object.h
+/home/tanya/CLionProjects/popovta1 (копия)/Map_object.h
+TextureManager.h
+/home/tanya/CLionProjects/popovta1 (копия)/TextureManager.h
+
+/home/tanya/CLionProjects/popovta1 (копия)/Map_object.h
+SDL2/SDL.h
+/home/tanya/CLionProjects/popovta1 (копия)/SDL2/SDL.h
+defs.h
+/home/tanya/CLionProjects/popovta1 (копия)/defs.h
+
+/home/tanya/CLionProjects/popovta1 (копия)/Ninja.cpp
+SDL2/SDL_system.h
+-
+SDL2/SDL_ttf.h
+-
+Ninja.h
+/home/tanya/CLionProjects/popovta1 (копия)/Ninja.h
+
+/home/tanya/CLionProjects/popovta1 (копия)/Ninja.h
+TextureManager.h
+/home/tanya/CLionProjects/popovta1 (копия)/TextureManager.h
+GameObject.h
+/home/tanya/CLionProjects/popovta1 (копия)/GameObject.h
+utility
+-
+defs.h
+/home/tanya/CLionProjects/popovta1 (копия)/defs.h
+
+/home/tanya/CLionProjects/popovta1 (копия)/Pancake.cpp
+Pancake.h
+/home/tanya/CLionProjects/popovta1 (копия)/Pancake.h
+defs.h
+/home/tanya/CLionProjects/popovta1 (копия)/defs.h
+game.h
+/home/tanya/CLionProjects/popovta1 (копия)/game.h
+
+/home/tanya/CLionProjects/popovta1 (копия)/Pancake.h
+Map_object.h
+/home/tanya/CLionProjects/popovta1 (копия)/Map_object.h
+
+/home/tanya/CLionProjects/popovta1 (копия)/RedSamurai.cpp
+RedSamurai.h
+/home/tanya/CLionProjects/popovta1 (копия)/RedSamurai.h
+
+/home/tanya/CLionProjects/popovta1 (копия)/RedSamurai.h
+Samurai.h
+/home/tanya/CLionProjects/popovta1 (копия)/Samurai.h
+
+/home/tanya/CLionProjects/popovta1 (копия)/Sakura.cpp
+Sakura.h
+/home/tanya/CLionProjects/popovta1 (копия)/Sakura.h
+
+/home/tanya/CLionProjects/popovta1 (копия)/Sakura.h
+Map_object.h
+/home/tanya/CLionProjects/popovta1 (копия)/Map_object.h
+game.h
+/home/tanya/CLionProjects/popovta1 (копия)/game.h
+defs.h
+/home/tanya/CLionProjects/popovta1 (копия)/defs.h
+
+/home/tanya/CLionProjects/popovta1 (копия)/Samurai.cpp
+iostream
+-
+Samurai.h
+/home/tanya/CLionProjects/popovta1 (копия)/Samurai.h
+algorithm
+-
+assets
+-
+cassert
+-
+
+/home/tanya/CLionProjects/popovta1 (копия)/Samurai.h
+defs.h
+/home/tanya/CLionProjects/popovta1 (копия)/defs.h
+GameObject.h
+/home/tanya/CLionProjects/popovta1 (копия)/GameObject.h
+Ninja.h
+/home/tanya/CLionProjects/popovta1 (копия)/Ninja.h
+
+/home/tanya/CLionProjects/popovta1 (копия)/TextureManager.cpp
+TextureManager.h
+/home/tanya/CLionProjects/popovta1 (копия)/TextureManager.h
+iostream
+-
+
+/home/tanya/CLionProjects/popovta1 (копия)/TextureManager.h
+SDL2/SDL.h
+/home/tanya/CLionProjects/popovta1 (копия)/SDL2/SDL.h
+SDL2/SDL_image.h
+/home/tanya/CLionProjects/popovta1 (копия)/SDL2/SDL_image.h
+game.h
+/home/tanya/CLionProjects/popovta1 (копия)/game.h
+SDL2/SDL_ttf.h
+-
+
+/home/tanya/CLionProjects/popovta1 (копия)/YellowSamurai.cpp
+YellowSamurai.h
+/home/tanya/CLionProjects/popovta1 (копия)/YellowSamurai.h
+
+/home/tanya/CLionProjects/popovta1 (копия)/YellowSamurai.h
+Samurai.h
+/home/tanya/CLionProjects/popovta1 (копия)/Samurai.h
+
+/home/tanya/CLionProjects/popovta1 (копия)/defs.cpp
+cmath
+-
+fstream
+-
+defs.h
+/home/tanya/CLionProjects/popovta1 (копия)/defs.h
+sstream
+-
+
+/home/tanya/CLionProjects/popovta1 (копия)/defs.h
+cmath
+-
+string
+-
+iostream
+-
+utility
+-
+
+/home/tanya/CLionProjects/popovta1 (копия)/game.cpp
+SDL2/SDL_ttf.h
+-
+game.h
+/home/tanya/CLionProjects/popovta1 (копия)/game.h
+defs.h
+/home/tanya/CLionProjects/popovta1 (копия)/defs.h
+TextureManager.h
+/home/tanya/CLionProjects/popovta1 (копия)/TextureManager.h
+
+/home/tanya/CLionProjects/popovta1 (копия)/game.h
+RedSamurai.h
+/home/tanya/CLionProjects/popovta1 (копия)/RedSamurai.h
+YellowSamurai.h
+/home/tanya/CLionProjects/popovta1 (копия)/YellowSamurai.h
+GreenSamurai.h
+/home/tanya/CLionProjects/popovta1 (копия)/GreenSamurai.h
+SDL2/SDL.h
+/home/tanya/CLionProjects/popovta1 (копия)/SDL2/SDL.h
+SDL2/SDL_image.h
+/home/tanya/CLionProjects/popovta1 (копия)/SDL2/SDL_image.h
+Ninja.h
+/home/tanya/CLionProjects/popovta1 (копия)/Ninja.h
+Map.h
+/home/tanya/CLionProjects/popovta1 (копия)/Map.h
+iostream
+-
+GameObject.h
+/home/tanya/CLionProjects/popovta1 (копия)/GameObject.h
+
+/home/tanya/CLionProjects/popovta1 (копия)/main.cpp
+defs.h
+/home/tanya/CLionProjects/popovta1 (копия)/defs.h
+game.h
+/home/tanya/CLionProjects/popovta1 (копия)/game.h
+SDL2/SDL.h
+-
+SDL2/SDL_timer.h
+-
+

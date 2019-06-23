@@ -1,0 +1,30 @@
+ninja's speed 1
+samurai's speed in chase mode 1
+samurai's speed in scatter mode 2
+samurai's speed in frightened mode 1
+chase mode time 500
+scatter mode time 50
+frightened mode time 120
+sleep time: red samurai 70 
+sleep time: green samurai 100
+sleep time: yellow samurai 150
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 1
+1 0 1 1 1 0 1 1 1 0 1 1 1 0 1 1 1 1 0 1
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+1 1 1 0 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 
+1 1 1 0 1 1 0 0 0 0 S 0 0 0 0 0 0 1 1 1
+9 9 1 0 1 1 0 0 1 1 x 1 1 0 1 1 0 1 9 9 
+1 1 1 0 1 1 0 0 1 9 9 9 1 0 1 1 0 1 1 1
+0 0 0 0 1 1 1 0 1 S S S 1 0 1 1 0 0 0 0
+1 1 1 0 0 0 0 0 1 1 1 1 1 0 0 0 0 9 9 9
+9 9 1 0 1 1 1 0 0 0 0 0 0 0 1 1 0 1 9 9
+1 1 1 0 1 1 1 1 0 1 0 1 1 0 1 1 0 1 1 1
+1 0 0 0 0 0 1 1 0 1 0 1 1 0 1 1 0 0 0 1
+1 0 1 1 0 0 0 0 0 1 N 0 0 0 0 0 0 1 0 1 
+1 0 1 1 1 0 1 1 1 1 0 1 0 1 1 1 1 1 0 1
+1 0 1 1 1 0 0 0 0 0 0 0 0 0 1 1 1 1 0 1
+1 0 0 0 0 0 1 1 0 0 0 0 1 0 0 0 0 0 0 1
+1 0 1 1 1 1 1 1 1 0 1 0 1 1 1 1 1 1 0 1
+1 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 

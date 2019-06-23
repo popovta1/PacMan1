@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="pac_man"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/tanya/CLionProjects/popovta1 (копия)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/tanya/CLionProjects/popovta1\ (копия)/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/tanya/CLionProjects/popovta1\ (копия)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/tanya/CLionProjects/popovta1\ (копия)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/tanya/CLionProjects/popovta1\ (копия)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/tanya/CLionProjects/popovta1 (копия)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/tanya/CLionProjects/popovta1\ (копия)/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/tanya/CLionProjects/popovta1\ (копия)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/tanya/CLionProjects/popovta1\ (копия)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/tanya/CLionProjects/popovta1\ (копия)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/tanya/CLionProjects/popovta1 (копия)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/tanya/CLionProjects/popovta1\ (копия)/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/tanya/CLionProjects/popovta1\ (копия)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/tanya/CLionProjects/popovta1\ (копия)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/tanya/CLionProjects/popovta1\ (копия)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pac_man">
+				<Option output="/home/tanya/CLionProjects/popovta1 (копия)/cmake-build-debug/pac_man" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tanya/CLionProjects/popovta1 (копия)/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/home/tanya/CLionProjects/popovta1 (копия)/SDL2_ttf"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/tanya/CLionProjects/popovta1\ (копия)/cmake-build-debug/Makefile&quot;  VERBOSE=1 pac_man"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/tanya/CLionProjects/popovta1\ (копия)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/tanya/CLionProjects/popovta1\ (копия)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/tanya/CLionProjects/popovta1\ (копия)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pac_man/fast">
+				<Option output="/home/tanya/CLionProjects/popovta1 (копия)/cmake-build-debug/pac_man" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/tanya/CLionProjects/popovta1 (копия)/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/home/tanya/CLionProjects/popovta1 (копия)/SDL2_ttf"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/tanya/CLionProjects/popovta1\ (копия)/cmake-build-debug/Makefile&quot;  VERBOSE=1 pac_man/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/tanya/CLionProjects/popovta1\ (копия)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/tanya/CLionProjects/popovta1\ (копия)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/tanya/CLionProjects/popovta1\ (копия)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/tanya/CLionProjects/popovta1 (копия)/GameObject.cpp">
+			<Option target="pac_man"/>
+		</Unit>
+		<Unit filename="/home/tanya/CLionProjects/popovta1 (копия)/GameObject.h">
+			<Option target="pac_man"/>
+		</Unit>
+		<Unit filename="/home/tanya/CLionProjects/popovta1 (копия)/Grass.cpp">
+			<Option target="pac_man"/>
+		</Unit>
+		<Unit filename="/home/tanya/CLionProjects/popovta1 (копия)/Grass.h">
+			<Option target="pac_man"/>
+		</Unit>
+		<Unit filename="/home/tanya/CLionProjects/popovta1 (копия)/GreenSamurai.cpp">
+			<Option target="pac_man"/>
+		</Unit>
+		<Unit filename="/home/tanya/CLionProjects/popovta1 (копия)/GreenSamurai.h">
+			<Option target="pac_man"/>
+		</Unit>
+		<Unit filename="/home/tanya/CLionProjects/popovta1 (копия)/Map.cpp">
+			<Option target="pac_man"/>
+		</Unit>
+		<Unit filename="/home/tanya/CLionProjects/popovta1 (копия)/Map.h">
+			<Option target="pac_man"/>
+		</Unit>
+		<Unit filename="/home/tanya/CLionProjects/popovta1 (копия)/Map_object.cpp">
+			<Option target="pac_man"/>
+		</Unit>
+		<Unit filename="/home/tanya/CLionProjects/popovta1 (копия)/Map_object.h">
+			<Option target="pac_man"/>
+		</Unit>
+		<Unit filename="/home/tanya/CLionProjects/popovta1 (копия)/Ninja.cpp">
+			<Option target="pac_man"/>
+		</Unit>
+		<Unit filename="/home/tanya/CLionProjects/popovta1 (копия)/Ninja.h">
+			<Option target="pac_man"/>
+		</Unit>
+		<Unit filename="/home/tanya/CLionProjects/popovta1 (копия)/Pancake.cpp">
+			<Option target="pac_man"/>
+		</Unit>
+		<Unit filename="/home/tanya/CLionProjects/popovta1 (копия)/Pancake.h">
+			<Option target="pac_man"/>
+		</Unit>
+		<Unit filename="/home/tanya/CLionProjects/popovta1 (копия)/RedSamurai.cpp">
+			<Option target="pac_man"/>
+		</Unit>
+		<Unit filename="/home/tanya/CLionProjects/popovta1 (копия)/RedSamurai.h">
+			<Option target="pac_man"/>
+		</Unit>
+		<Unit filename="/home/tanya/CLionProjects/popovta1 (копия)/Sakura.cpp">
+			<Option target="pac_man"/>
+		</Unit>
+		<Unit filename="/home/tanya/CLionProjects/popovta1 (копия)/Sakura.h">
+			<Option target="pac_man"/>
+		</Unit>
+		<Unit filename="/home/tanya/CLionProjects/popovta1 (копия)/Samurai.cpp">
+			<Option target="pac_man"/>
+		</Unit>
+		<Unit filename="/home/tanya/CLionProjects/popovta1 (копия)/Samurai.h">
+			<Option target="pac_man"/>
+		</Unit>
+		<Unit filename="/home/tanya/CLionProjects/popovta1 (копия)/TextureManager.cpp">
+			<Option target="pac_man"/>
+		</Unit>
+		<Unit filename="/home/tanya/CLionProjects/popovta1 (копия)/TextureManager.h">
+			<Option target="pac_man"/>
+		</Unit>
+		<Unit filename="/home/tanya/CLionProjects/popovta1 (копия)/YellowSamurai.cpp">
+			<Option target="pac_man"/>
+		</Unit>
+		<Unit filename="/home/tanya/CLionProjects/popovta1 (копия)/YellowSamurai.h">
+			<Option target="pac_man"/>
+		</Unit>
+		<Unit filename="/home/tanya/CLionProjects/popovta1 (копия)/defs.cpp">
+			<Option target="pac_man"/>
+		</Unit>
+		<Unit filename="/home/tanya/CLionProjects/popovta1 (копия)/defs.h">
+			<Option target="pac_man"/>
+		</Unit>
+		<Unit filename="/home/tanya/CLionProjects/popovta1 (копия)/game.cpp">
+			<Option target="pac_man"/>
+		</Unit>
+		<Unit filename="/home/tanya/CLionProjects/popovta1 (копия)/game.h">
+			<Option target="pac_man"/>
+		</Unit>
+		<Unit filename="/home/tanya/CLionProjects/popovta1 (копия)/main.cpp">
+			<Option target="pac_man"/>
+		</Unit>
+		<Unit filename="/home/tanya/CLionProjects/popovta1 (копия)/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

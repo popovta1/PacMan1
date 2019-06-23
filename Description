@@ -1,0 +1,9 @@
+Japanese version  Pacman game. Main character is ninja.
+He can move by left, right, forward or backward direction and collect points.
+Map is loading from file. It looks like a matrix of characters.
+There are enemy room, ninja's start position, samurai's start positions and point's position.
+Every samurai has unique moving algorithm
+There are three modes for samurai(like in original pacman game)
+I use SDL2 library and SDL_TTF library.
+Polymorphism: overloading methods Move for Ninja,  collision Ninja and Grass or Ninja and Samurai
+

@@ -1,0 +1,63 @@
+CFLAGS=-c -std=c++11 -Wall -Wextra -O3 -pedantic -ggdb -Wno-long-long  
+LINKER=-lSDL2 -lSDL2_image 
+
+
+all: 
+	make compile; make doc;
+
+compile: main.o game.o GameObject.o Ninja.o Samurai.o RedSamurai.o GreenSamurai.o YellowSamurai.o Map_object.o Sakura.o Pancake.o TextureManager.o Grass.o defs.o Map.o
+	g++  main.o game.o GameObject.o Ninja.o Samurai.o RedSamurai.o GreenSamurai.o YellowSamurai.o Map_object.o Sakura.o Pancake.o TextureManager.o Grass.o defs.o Map.o $(LINKER) -o popovta1;
+
+main.o: main.cpp
+	g++ $(CFLAGS) main.cpp 
+
+game.o: game.cpp game.h
+	g++ $(CFLAGS) game.cpp 
+
+Map.o: Map.cpp Map.h
+	g++ $(CFLAGS) Map.cpp 
+
+defs.o: defs.cpp defs.h
+	g++ $(CFLAGS) gefs.cpp 
+
+GameObject.o: GameObject.cpp GameObject.h
+	g++ $(CFLAGS) GameObject.cpp 
+
+Ninja.o: Ninja.cpp Ninja.h
+	g++ $(CFLAGS) Ninja.cpp
+
+Samurai.o: Samurai.cpp Samurai.h
+	g++ $(CFLAGS) Samurai.cpp
+
+RedSamurai.o: RedSamurai.cpp RedSamurai.h
+	g++ $(CFLAGS) Samurai.cpp
+
+GreenSamurai.o: GreenSamurai.cpp GreenSamurai.h
+	g++ $(CFLAGS) GameObject.cpp
+
+YellowSamurai.o: YellowSamurai.cpp YellowSamurai.h
+	g++ $(CFLAGS) YellowSamurai.cpp
+
+
+Map_object.o: Map_object.cpp Map_object.h
+	g++ $(CFLAGS) Map_object.cpp
+
+Sakura.o: Sakura.cpp Sakura.h
+	g++ $(CFLAGS) Sakura.cpp
+
+Pancake.o: Pancake.cpp Pancake.h
+	g++ $(CFLAGS) Pancake.cpp
+
+TextureManager.o: TextureManager.cpp TextureManager.h
+	g++ $(CFLAGS) TextureManager.cpp
+
+Grass.o: Grass.cpp Grass.h
+	g++ $(CFLAGS) Grass.cpp
+clean: 
+	rm *.o popovta1; rm -r ./doc; 
+
+run:
+	./popovta1
+
+doc:
+	 mkdir doc; doxygen; mv doc ..; cd ..;
